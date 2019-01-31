@@ -1,2 +1,3 @@
 # CART
-build a CART decision tree according to the book meachine learning by Zhihua Zhou
+Build a CART decision tree according to the book Machine Learning by Zhi-Hua Zhou
+
